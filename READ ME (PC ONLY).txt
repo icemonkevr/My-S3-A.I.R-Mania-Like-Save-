@@ -1,0 +1,18 @@
+{NOTICE: THIS IS A MANIA-STYLED 100% SAVE FILE ALONG WITH AMY ROSE AND MORE}
+
+SAVE FILE GUIDE: If your on pc Use this guide android will have it's own .Zip and android Guide.
+
+If you want to download this file you need the sonic 3 A.I.R file which is in: C:\Users\EXAMPLE\AppData\Roaming\Sonic3AIR
+and once your there, you'll need to delete the original things (such as the persistentdata.bin playerprogress.bin settings_input.json settings.json and sram.bin all deleted)
+Then import the stuff from the new file and paste it into the S3AIR Folder.
+
+IF YOU WANT THE MODS TOO I'LL SHOW YOU ALSO
+
+MODS GUIDE: This is for pc only android will have its own guide too
+
+After you have the Save file OR you just want the mods then this is the #2 guide. Once your in the folder which is C:\Users\EXAMPLE\AppData\Roaming\Sonic3AIR\mods
+You might need to delete all of your mods and delete the active-mods.json file. Then import the mods from the new file along with the new active-mods.json and your done!
+
+IF THERE ARE ANY ERRORS OR CRASHES PLEASE FEEL FREE TO DM ME ON DISCORD (which is @_crystalthehedgehog_)
+
+P.S: The Folders for the instructions are the folders called Crystals Mods and Crystals Data
